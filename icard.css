@@ -18,7 +18,7 @@ body{
 }
 .id-container .iCard button{
     border: none;
-    background-color: #e6e6e6;
+    background-color: #92979e;
     border-radius: 5px;
     color: #ffffff;
     text-align: center;
@@ -31,7 +31,7 @@ body{
 
 }
 .id-container .iCard button:hover{
-background-color: #0672ca;
+background-color: #2563eb;
 }
 .id-container{
     border: 5px solid #8b0000;
